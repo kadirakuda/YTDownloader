@@ -12,12 +12,12 @@ Note: More functionality will be added shortly e.g. downloading playlists.
 ## LocalSetup
 
 ### Requirements
-* Install all dependencies
+Install all dependencies
   pip3 install -r requirements.txt
 
   or
 
   pip3 install pytube3
 
-* Run the file
+Run the file:
   python3 YTDownload.py
