@@ -13,11 +13,13 @@ Note: More functionality will be added shortly e.g. downloading playlists.
 
 ### Requirements
 Install all dependencies
-  pip3 install -r requirements.txt
 
-  or
+pip3 install -r requirements.txt
 
-  pip3 install pytube3
+or
+
+pip3 install pytube3
 
 Run the file:
-  python3 YTDownload.py
+
+python3 YTDownload.py
