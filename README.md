@@ -1,2 +1,2 @@
 # YTDownloader
-Convert urls and make an mp3 audio file.
+Simple application that allows you to download youtube videos as mp4 video or audio files.
