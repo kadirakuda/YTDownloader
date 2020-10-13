@@ -8,7 +8,7 @@ from pytube import Playlist
 def download_audio(video_link):
     #filter the available streams to audio only
     yt = YouTube(video_link)
-    yt.streams.filter(only_audio=True).first().download()
+    yt.streams.filter(only_audio=True).first().download('/Users/kudakadira/Music/')
     print("\n Your audio file is ready!")
 
 def download_video(video_link, quality):
